@@ -1,5 +1,5 @@
 👨‍💻 Software Developer | E-commerce Specialist | Full-Stack Developer
-🌍 Location: Berlin, Germany
+🌍 Location: Frankfurt am Main, Germany
 
 Hello! I'm Abdullah Rashwani, a passionate software developer with extensive experience in developing e-commerce software. My focus is on programming point-of-sale systems, ERP software, online shops, personnel management systems, and inventory management systems.
 
