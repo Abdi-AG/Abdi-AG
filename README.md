@@ -1,5 +1,6 @@
 ## Abdullah Rashwani
 **Founder & Lead Engineer — XoAlpha · Managing Director — Artificial Globe**
+
 Frankfurt am Main, Germany
 
 I design and build business-critical software: platforms that process real transactions,
@@ -37,7 +38,7 @@ from concept and architecture to production operation.
 
 ### Engineering
 Full-stack product development across backend, web, mobile and cloud,
-with a focus on reliability, Scalability, security and long-term maintainability.
+with a focus on reliability, scalability, security and long-term maintainability.
 
 ---
 
