@@ -1,5 +1,5 @@
 ## Abdullah Rashwani
-**Founder & Lead Engineer — XO Alpha · Managing Director — Artificial Globe**
+**Founder & Lead Engineer — XoAlpha · Managing Director — Artificial Globe**
 Frankfurt am Main, Germany
 
 I design and build business-critical software: platforms that process real transactions,
@@ -7,7 +7,7 @@ run daily operations, and have to work reliably every single day.
 
 ---
 
-### XO Alpha
+### XoAlpha
 A multi-tenant SaaS platform combining POS and ERP for the German hospitality industry —
 restaurants, cafés, bars and hotel F&B operations.
 One system for point of sale, inventory, staff and back-office processes,
