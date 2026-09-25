@@ -1,21 +1,50 @@
-👨‍💻 Software Developer | E-commerce Specialist | Full-Stack Developer
-🌍 Location: Frankfurt am Main, Germany
+## Abdullah Rashwani
+**Founder & Lead Engineer — XO Alpha · Managing Director — Artificial Globe**
+Frankfurt am Main, Germany
 
-Hello! I'm Abdullah Rashwani, a passionate software developer with extensive experience in developing e-commerce software. My focus is on programming point-of-sale systems, ERP software, online shops, personnel management systems, and inventory management systems.
+I design and build business-critical software: platforms that process real transactions,
+run daily operations, and have to work reliably every single day.
 
-🔧 Technical Expertise:
+---
 
-Languages: Java, PHP, Python, JavaScript
-Front-end Technologies: HTML, CSS, JavaScript (jQuery, React)
-Databases: MySQL, PostgreSQL, MongoDB
-Tools: Docker, Git, IntelliJ IDEA, Eclipse
-💼 Professional Background:
-I have a strong background in developing custom e-commerce software for various companies. Through my extensive experience in programming point-of-sale systems, ERP solutions, and inventory management systems, I have gained a deep understanding of the challenges and requirements of the e-commerce industry.
+### XO Alpha
+A multi-tenant SaaS platform combining POS and ERP for the German hospitality industry —
+restaurants, cafés, bars and hotel F&B operations.
+One system for point of sale, inventory, staff and back-office processes,
+available on web and mobile.
 
-🚀 My goal is to develop innovative and user-friendly software solutions that help businesses achieve their e-commerce goals and efficiently manage their operations. I am dedicated, reliable, and enjoy working both as part of a team and independently to achieve optimal results.
+→ https://www.xoalpha.com
 
-📫 Contact:
-If you are interested in collaboration or have a project in mind, you can reach me through GitHub or via email at uabed95@gmail.com. I look forward to hearing from you!
+### Artificial Globe
+A software studio based in Frankfurt, developing custom software for businesses —
+from concept and architecture to production operation.
+
+**Services**
+- Custom business software
+- SaaS product development and multi-tenant platform architecture
+- Web and mobile applications
+- Cloud infrastructure, deployment and long-term maintenance
+
+→ https://artificial-globe.com
+
+---
+
+### Domain expertise
+- **Point of sale & ERP** — years of building transaction-heavy systems for retail, e-commerce and hospitality
+- **German regulatory requirements** — KassenSichV / TSE, DSFinV-K, GoBD
+- **SaaS architecture** — multi-tenancy, scalability, data isolation
+- **End-to-end ownership** — from requirements and system design to operations and client relationships
+
+### Engineering
+Full-stack product development across backend, web, mobile and cloud,
+with a focus on reliability, Scalability, security and long-term maintainability.
+
+---
+
+### Contact
+For partnerships, client projects:
+
+→ abdullah.rashwani@artificial-globe.com
 
 <!---
 Abdi-AG/Abdi-AG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
